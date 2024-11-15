@@ -47,10 +47,4 @@ This web application generates historical content based on user prompts, includi
 - `templates/`: HTML templates for the web pages
 - `static/`: Static files (CSS, generated content)
 
-## Contributing
 
-Feel free to submit issues and pull requests to improve the project.
-
-## License
-
-This project is licensed under the MIT License.
